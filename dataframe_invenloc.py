@@ -1,4 +1,3 @@
-from databasefinder import connection_string
 import pyodbc
 import pandas as pd
 pd.set_option('display.max_rows', None)

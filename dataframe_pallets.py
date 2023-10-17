@@ -1,4 +1,4 @@
-from databasefinder import connection_string
+
 import pyodbc
 import pandas as pd
 
